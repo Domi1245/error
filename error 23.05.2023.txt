@@ -1,3 +1,9 @@
+Mein Server startet wieder was war der Fehler hier ist die Lösung
+The error message "invalid CEN header (bad signature)" indicates that the JAR file is corrupted. This can happen if the file is downloaded or transferred incorrectly, or if it is damaged in some other way.
+You can try and re-download the JAR file from the internet.
+
+Kleiner Tipp bei mir ist es offensichtlich beim Backup passiert
+
 [17:18:18] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.39, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge]
 [17:18:18] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 1.8.0_312 by Temurin
 [17:18:19] [main/ERROR] [ne.mi.fm.lo.ModDirTransformerDiscoverer/]: Zip Error when loading jar file /home/container/mods/pedestals-0.8s_hotfix_6.jar
