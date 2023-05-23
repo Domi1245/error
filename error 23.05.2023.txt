@@ -1,0 +1,83 @@
+[17:18:18] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.39, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge]
+[17:18:18] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 1.8.0_312 by Temurin
+[17:18:19] [main/ERROR] [ne.mi.fm.lo.ModDirTransformerDiscoverer/]: Zip Error when loading jar file /home/container/mods/pedestals-0.8s_hotfix_6.jar
+java.util.zip.ZipException: invalid CEN header (bad signature)
+        at java.util.zip.ZipFile.open(Native Method) ~[?:1.8.0_312] {}
+        at java.util.zip.ZipFile.<init>(ZipFile.java:228) ~[?:1.8.0_312] {}
+        at java.util.zip.ZipFile.<init>(ZipFile.java:157) ~[?:1.8.0_312] {}
+        at java.util.zip.ZipFile.<init>(ZipFile.java:171) ~[?:1.8.0_312] {}
+        at net.minecraftforge.fml.loading.ModDirTransformerDiscoverer.visitFile(ModDirTransformerDiscoverer.java:61) ~[server.jar:36.2] {}
+        at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:1.8.0_312] {}
+        at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193) ~[?:1.8.0_312] {}
+        at java.util.Iterator.forEachRemaining(Iterator.java:116) ~[?:1.8.0_312] {}
+        at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801) ~[?:1.8.0_312] {}
+        at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482) ~[?:1.8.0_312] {}
+        at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472) ~[?:1.8.0_312] {}
+        at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:1.8.0_312] {}
+        at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:1.8.0_312] {}
+        at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:1.8.0_312] {}
+        at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:485) ~[?:1.8.0_312] {}
+        at net.minecraftforge.fml.loading.ModDirTransformerDiscoverer.scan(ModDirTransformerDiscoverer.java:51) ~[server.jar:36.2] {}
+        at net.minecraftforge.fml.loading.ModDirTransformerDiscoverer.candidates(ModDirTransformerDiscoverer.java:23) ~[server.jar:36.2] {}
+        at cpw.mods.modlauncher.TransformationServicesHandler.lambda$discoverServices$13(TransformationServicesHandler.java:137) ~[modlauncher-8.1.3.jar:?] {}
+        at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193) [?:1.8.0_312] {}
+        at java.util.Iterator.forEachRemaining(Iterator.java:116) [?:1.8.0_312] {}
+        at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801) [?:1.8.0_312] {}
+        at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482) [?:1.8.0_312] {}
+        at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472) [?:1.8.0_312] {}
+        at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:708) [?:1.8.0_312] {}
+        at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) [?:1.8.0_312] {}
+        at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:566) [?:1.8.0_312] {}
+        at cpw.mods.modlauncher.TransformationServicesHandler.discoverServices(TransformationServicesHandler.java:137) [modlauncher-8.1.3.jar:?] {}
+        at cpw.mods.modlauncher.Launcher.run(Launcher.java:75) [modlauncher-8.1.3.jar:?] {}
+        at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.1.3.jar:?] {}
+        at net.minecraftforge.server.ServerMain$Runner.runLauncher(ServerMain.java:49) [server.jar:?] {}
+        at net.minecraftforge.server.ServerMain$Runner.access$100(ServerMain.java:46) [server.jar:?] {}
+        at net.minecraftforge.server.ServerMain.main(ServerMain.java:43) [server.jar:?] {}
+[17:18:19] [main/INFO] [ne.mi.fm.lo.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[17:18:19] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/home/container/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+Exception in thread "main" [17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]: com.electronwill.nightconfig.core.io.ParsingException: Failed to parse data from Reader
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at com.electronwill.nightconfig.core.io.ParsingException.readFailed(ParsingException.java:18)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at com.electronwill.nightconfig.core.io.ReaderInput.directRead(ReaderInput.java:23)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at com.electronwill.nightconfig.core.io.AbstractInput.read(AbstractInput.java:37)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at com.electronwill.nightconfig.core.io.CharacterInput.readAndSkip(CharacterInput.java:42)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at com.electronwill.nightconfig.toml.Toml.readUseful(Toml.java:34)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at com.electronwill.nightconfig.toml.TableParser.parseNormal(TableParser.java:50)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at com.electronwill.nightconfig.toml.TomlParser.parse(TomlParser.java:44)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at com.electronwill.nightconfig.toml.TomlParser.parse(TomlParser.java:37)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:113)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:219)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at com.electronwill.nightconfig.core.io.ConfigParser.parse(ConfigParser.java:202)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at com.electronwill.nightconfig.core.file.WriteAsyncFileConfig.load(WriteAsyncFileConfig.java:138)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at net.minecraftforge.fml.loading.moddiscovery.ModFileParser.modsTomlParser(ModFileParser.java:45)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at net.minecraftforge.fml.loading.moddiscovery.ModFileParser.readModList(ModFileParser.java:32)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at net.minecraftforge.fml.loading.moddiscovery.ModFile.identifyMods(ModFile.java:99)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer.discoverMods(ModDiscoverer.java:107)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at net.minecraftforge.fml.loading.FMLLoader.beginModScan(FMLLoader.java:202)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at net.minecraftforge.fml.loading.FMLServiceProvider.runScan(FMLServiceProvider.java:93)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at cpw.mods.modlauncher.TransformationServiceDecorator.runScan(TransformationServiceDecorator.java:114)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at cpw.mods.modlauncher.TransformationServicesHandler.lambda$runScanningTransformationServices$8(TransformationServicesHandler.java:115)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:269)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at java.util.HashMap$ValueSpliterator.forEachRemaining(HashMap.java:1652)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:708)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:566)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at cpw.mods.modlauncher.TransformationServicesHandler.runScanningTransformationServices(TransformationServicesHandler.java:116)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at cpw.mods.modlauncher.TransformationServicesHandler.initializeTransformationServices(TransformationServicesHandler.java:63)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at cpw.mods.modlauncher.Launcher.run(Launcher.java:76)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at cpw.mods.modlauncher.Launcher.main(Launcher.java:66)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at net.minecraftforge.server.ServerMain$Runner.runLauncher(ServerMain.java:49)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at net.minecraftforge.server.ServerMain$Runner.access$100(ServerMain.java:46)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1052]:       at net.minecraftforge.server.ServerMain.main(ServerMain.java:43)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]: Caused by: java.util.zip.ZipException: invalid stored block lengths
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]:       at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:164)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]:       at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]:       at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]:       at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]:       at java.io.InputStreamReader.read(InputStreamReader.java:184)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]:       at java.io.BufferedReader.fill(BufferedReader.java:161)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]:       at java.io.BufferedReader.read(BufferedReader.java:182)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]:       at com.electronwill.nightconfig.core.io.ReaderInput.directRead(ReaderInput.java:21)
+[17:18:21] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:1061]:       ... 32 more
