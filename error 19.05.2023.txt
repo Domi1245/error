@@ -1,3 +1,10 @@
+Lösung kommt von Hi_APutty
+Mein Server startet wieder was war der Fehler hier ist die Lösung
+The error message "invalid CEN header (bad signature)" indicates that the JAR file is corrupted. This can happen if the file is downloaded or transferred incorrectly, or if it is damaged in some other way.
+You can try and re-download the JAR file from the internet.
+
+Kleiner Tipp bei mir ist es offensichtlich beim Backup passiert
+
 [Pterodactyl Daemon]: Checking server disk space usage, this could take a few seconds...
 [Pterodactyl Daemon]: Updating process configuration files...
 [Pterodactyl Daemon]: Ensuring file permissions are set correctly, this could take a few seconds...
