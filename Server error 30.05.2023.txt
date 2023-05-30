@@ -1,0 +1,436 @@
+
+Hallo kann mir bei dem Server Absturz jemand weiterhelfen
+
+[30May2023 19:34:37.043] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.39, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge]
+[30May2023 19:34:37.068] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.13 by Eclipse Adoptium
+[30May2023 19:34:38.197] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[30May2023 19:34:38.302] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/home/container/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[30May2023 19:34:41.820] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.025] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.037] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.048] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.060] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.092] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.101] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.108] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.121] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.128] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.135] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.142] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.148] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.165] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.192] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.203] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.217] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.225] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.234] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.243] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.251] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.259] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.265] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.273] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.300] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.308] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.317] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.328] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.338] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.349] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.356] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.366] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.374] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.381] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.395] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.403] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.409] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.417] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.427] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.435] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.445] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.451] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.459] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.468] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.474] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.482] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.495] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.499] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.504] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.509] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.513] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.518] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.523] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.528] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.533] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.537] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.542] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.549] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.554] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:34:42.958] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 13:0 token recognition error at: '`'
+[30May2023 19:34:43.350] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 1:0 token recognition error at: '~'
+[30May2023 19:34:48.829] [main/ERROR] [mixin/]: Mixin config moreoverlays.mixin.json does not specify "minVersion" property
+[30May2023 19:34:49.197] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [shetiphian.core.mixins.MixinConnector]
+[30May2023 19:34:49.203] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.botania.common.MixinConnector]
+[30May2023 19:34:49.208] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.thevortex.allthetweaks.mixin.MixinConnector]
+[30May2023 19:34:49.212] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.leobeliik.extremesoundmuffler.MixinConnector]
+[30May2023 19:34:49.219] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.patchouli.common.MixinConnector]
+[30May2023 19:34:49.227] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.thevortex.screwthenether.mixins.MixinConnector]
+[30May2023 19:34:49.234] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [thelm.jaopca.mixins.JAOPCAMixinConnector]
+[30May2023 19:34:49.310] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, .]
+[30May2023 19:34:49.440] [main/WARN] [mixin/]: Reference map 'oauth.refmap.json' for oauth.mixins.json could not be read. If this is a development environment you can ignore this message
+[30May2023 19:34:49.554] [main/WARN] [mixin/]: Reference map 'findme.refmap.json' for findme.mixins.json could not be read. If this is a development environment you can ignore this message
+[30May2023 19:34:49.717] [main/WARN] [mixin/]: Reference map 'rhino-forge-refmap.json' for rhino.mixins.json could not be read. If this is a development environment you can ignore this message
+[30May2023 19:34:50.359] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'add_custom_entity_collision' ASM patch...
+[30May2023 19:34:50.655] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'add_custom_entity_collision' ASM patch!
+[30May2023 19:34:51.448] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'reach_set_server_entity_interact' ASM patch...
+[30May2023 19:34:51.697] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'reach_set_server_entity_interact' ASM patch!
+[30May2023 19:34:51.724] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'allow_entity_interaction' ASM patch...
+[30May2023 19:34:51.935] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'allow_entity_interaction' ASM patch!
+[30May2023 19:34:52.907] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching ItemStack#onItemUse
+[30May2023 19:34:52.920] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'add_missing_tag_enchantment_tooltip' ASM patch...
+[30May2023 19:34:53.056] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'add_missing_tag_enchantment_tooltip' ASM patch!
+[30May2023 19:34:53.100] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'add_enchantment_tooltip' ASM patch...
+[30May2023 19:34:53.193] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'add_enchantment_tooltip' ASM patch!
+[30May2023 19:34:53.336] [main/WARN] [mixin/]: Error loading class: de/maxhenkel/gravestone/events/DeathEvents (java.lang.ClassNotFoundException: null)
+[30May2023 19:34:53.341] [main/WARN] [mixin/]: Error loading class: de/maxhenkel/corpse/events/DeathEvents (java.lang.ClassNotFoundException: null)
+[30May2023 19:34:53.367] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'set_player_field' ASM patch...
+[30May2023 19:34:53.498] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'set_player_field' ASM patch!
+[30May2023 19:34:53.604] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LivingEntity#attackEntityFrom
+[30May2023 19:34:53.749] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching LivingEntity#blockUsingShield
+[30May2023 19:34:53.851] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching LivingEntity#applyPotionDamageCalculations
+[30May2023 19:34:53.923] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'water_movement_slowdown_prevention' ASM patch...
+[30May2023 19:34:54.012] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'water_movement_slowdown_prevention' ASM patch!
+[30May2023 19:34:54.705] [main/INFO] [net.minecraftforge.coremod.CoreMod.observerlib/COREMODLOG]: Adding 'on_block_change' ASM patch...
+[30May2023 19:34:54.813] [main/INFO] [net.minecraftforge.coremod.CoreMod.observerlib/COREMODLOG]: Added 'on_block_change' ASM patch!
+[30May2023 19:34:54.830] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'sun_brightness_server' ASM patch...
+[30May2023 19:34:54.905] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'sun_brightness_server' ASM patch!
+[30May2023 19:34:55.713] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screen/CreateWorldScreen for invalid dist DEDICATED_SERVER
+[30May2023 19:34:55.714] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screen/CreateWorldScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screen/CreateWorldScreen for invalid dist DEDICATED_SERVER)
+[30May2023 19:34:55.715] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screen.CreateWorldScreen was not found mixins.defaultoptions.json:CreateWorldScreenAccessor
+[30May2023 19:34:55.718] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/GameSettings for invalid dist DEDICATED_SERVER
+[30May2023 19:34:55.718] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/GameSettings (java.lang.RuntimeException: Attempted to load class net/minecraft/client/GameSettings for invalid dist DEDICATED_SERVER)
+[30May2023 19:34:55.719] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.GameSettings was not found mixins.defaultoptions.json:GameSettingsMixin
+[30May2023 19:34:55.731] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screen/inventory/ContainerScreen for invalid dist DEDICATED_SERVER
+[30May2023 19:34:55.732] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screen/inventory/ContainerScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screen/inventory/ContainerScreen for invalid dist DEDICATED_SERVER)
+[30May2023 19:34:55.732] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screen.inventory.ContainerScreen was not found findme.mixins.json:MixinSlotRenderer
+[30May2023 19:34:55.932] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/entity/player/ClientPlayerEntity for invalid dist DEDICATED_SERVER
+[30May2023 19:34:55.933] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/entity/player/ClientPlayerEntity (java.lang.RuntimeException: Attempted to load class net/minecraft/client/entity/player/ClientPlayerEntity for invalid dist DEDICATED_SERVER)
+[30May2023 19:34:55.933] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.entity.player.ClientPlayerEntity was not found ars_nouveau.mixins.json:ClientElytraMixin
+[30May2023 19:34:56.230] [main/INFO] [net.minecraftforge.coremod.CoreMod.observerlib/COREMODLOG]: Adding 'on_block_change' ASM patch...
+[30May2023 19:34:56.243] [main/INFO] [net.minecraftforge.coremod.CoreMod.observerlib/COREMODLOG]: Added 'on_block_change' ASM patch!
+[30May2023 19:34:56.245] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'sun_brightness_server' ASM patch...
+[30May2023 19:34:56.251] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'sun_brightness_server' ASM patch!
+[30May2023 19:34:56.945] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching DataPackRegistries#<init>
+[30May2023 19:34:57.053] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LootTableManager#apply
+[30May2023 19:34:57.253] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'add_enchantment_helper_levels' ASM patch...
+[30May2023 19:34:57.336] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'add_enchantment_helper_levels' ASM patch!
+[30May2023 19:34:57.345] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'add_enchantment_helper_enchantments' ASM patch...
+[30May2023 19:34:57.409] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'add_enchantment_helper_enchantments' ASM patch!
+[30May2023 19:34:57.419] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'add_enchantment_helper_apply_modifier' ASM patch...
+[30May2023 19:34:57.502] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'add_enchantment_helper_apply_modifier' ASM patch!
+[30May2023 19:34:57.555] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching EnchantmentHelper#getEnchantmentModifierDamage
+[30May2023 19:34:57.625] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching EnchantmentHelper#getModifierForCreature
+[30May2023 19:34:57.705] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching EnchantmentHelper#applyThornEnchantments
+[30May2023 19:34:57.753] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching EnchantmentHelper#applyArthropodEnchantments
+[30May2023 19:34:57.818] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching buildEnchantmentList for the Enchantability affix.
+[30May2023 19:34:57.852] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching EnchantmentHelper#getEnchantmentDatas
+[30May2023 19:34:57.947] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching TemptGoal#isTempting
+[30May2023 19:34:58.346] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching RepairContainer#updateRepairOutput
+[30May2023 19:34:58.397] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Successfully removed the anvil level cap.
+[30May2023 19:34:58.456] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching RepairContainer#updateRepairOutput
+[30May2023 19:34:58.812] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Successfully allowed nbt-unbreakable items in the anvil.
+[30May2023 19:34:59.029] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching net/minecraft/inventory/container/RepairContainer
+[30May2023 19:35:01.828] [main/INFO] [com.unrealdinnerbone.delogger.LoggerHacks/]: !!! SOME LOGGERS HAVE MOVED TO THE DEBUG FILE (Please Include them in your bug reports) !!!
+[30May2023 19:35:05.150] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'add_custom_entity_collision' ASM patch...
+[30May2023 19:35:05.167] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'add_custom_entity_collision' ASM patch!
+[30May2023 19:35:05.790] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'set_player_field' ASM patch...
+[30May2023 19:35:05.793] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'set_player_field' ASM patch!
+[30May2023 19:35:05.796] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LivingEntity#attackEntityFrom
+[30May2023 19:35:05.808] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching LivingEntity#blockUsingShield
+[30May2023 19:35:05.812] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching LivingEntity#applyPotionDamageCalculations
+[30May2023 19:35:05.829] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'water_movement_slowdown_prevention' ASM patch...
+[30May2023 19:35:05.831] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'water_movement_slowdown_prevention' ASM patch!
+[30May2023 19:35:06.108] [main/INFO] [net.minecraftforge.coremod.CoreMod.observerlib/COREMODLOG]: Adding 'on_block_change' ASM patch...
+[30May2023 19:35:06.109] [main/INFO] [net.minecraftforge.coremod.CoreMod.observerlib/COREMODLOG]: Added 'on_block_change' ASM patch!
+[30May2023 19:35:06.109] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'sun_brightness_server' ASM patch...
+[30May2023 19:35:06.110] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'sun_brightness_server' ASM patch!
+[30May2023 19:35:07.629] [main/INFO] [FerriteCore - class definer/]: Using Java 9+ class definer
+[30May2023 19:35:09.124] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching SharedMonsterAttributes#readAttributeModifier
+[30May2023 19:35:10.943] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching RepairContainer#updateRepairOutput
+[30May2023 19:35:10.963] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Successfully removed the anvil level cap.
+[30May2023 19:35:10.968] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching RepairContainer#updateRepairOutput
+[30May2023 19:35:11.006] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Successfully allowed nbt-unbreakable items in the anvil.
+[30May2023 19:35:11.010] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching net/minecraft/inventory/container/RepairContainer
+[30May2023 19:35:11.914] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching CampfireTileEntity#findMatchingRecipe
+[30May2023 19:35:15.665] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching TemptGoal#isTempting
+[30May2023 19:35:16.897] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching ItemStack#onItemUse
+[30May2023 19:35:16.904] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'add_missing_tag_enchantment_tooltip' ASM patch...
+[30May2023 19:35:16.918] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'add_missing_tag_enchantment_tooltip' ASM patch!
+[30May2023 19:35:16.920] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'add_enchantment_tooltip' ASM patch...
+[30May2023 19:35:16.923] [main/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'add_enchantment_tooltip' ASM patch!
+[30May2023 19:35:20.679] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching ItemArrow#isInfinite
+[30May2023 19:35:20.996] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching net/minecraft/item/EnchantedBookItem
+[30May2023 19:35:21.079] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching ItemArrow#isInfinite
+[30May2023 19:35:21.221] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching CrossbowItem#onItemRightClick
+[30May2023 19:35:21.334] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching CrossbowItem#fireProjectile
+[30May2023 19:35:21.894] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching FishingBobberEntity#catchingFish
+[30May2023 19:35:22.719] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching net/minecraft/loot/functions/EnchantRandomly
+[30May2023 19:35:27.939] [main/INFO] [PluginManager/]: Scanning classes for titanium
+[30May2023 19:35:28.024] [main/INFO] [PluginManager/]: Found FeaturePluginInstance for class IndustrialForegoingResourcePlugin for plugin resources
+[30May2023 19:35:28.024] [main/INFO] [PluginManager/]: Found FeaturePluginInstance for class DefaultResourceRegistryPlugin for plugin resources
+[30May2023 19:35:28.825] [modloading-worker-7/INFO] [HammerLib/]: Registered charge handler for type org.zeith.hammerlib.util.charging.fluid.FluidCharge - org.zeith.hammerlib.util.charging.impl.FluidChargeHandler@6dba8db3
+[30May2023 19:35:28.838] [modloading-worker-7/INFO] [HammerLib/]: Registered charge handler for type org.zeith.hammerlib.util.charging.fe.FECharge - org.zeith.hammerlib.util.charging.impl.FEChargeHandler@2adddb3a
+[30May2023 19:35:28.922] [modloading-worker-7/INFO] [HammerLib/]: Registered inventory lister org.zeith.hammerlib.util.charging.impl.VanillaPlayerInvLister
+[30May2023 19:35:29.096] [modloading-worker-4/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LootTableManager#apply
+[30May2023 19:35:29.096] [modloading-worker-1/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching DataPackRegistries#<init>
+[30May2023 19:35:29.302] [modloading-worker-3/INFO] [cabletiers/]: Loading config: /home/container/config/cabletiers-common.toml
+[30May2023 19:35:29.306] [modloading-worker-3/INFO] [cabletiers/]: Built config: /home/container/config/cabletiers-common.toml
+[30May2023 19:35:29.308] [modloading-worker-3/INFO] [cabletiers/]: Loaded config: /home/container/config/cabletiers-common.toml
+[30May2023 19:35:29.669] [modloading-worker-0/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'cooldown_tracker_set' ASM patch...
+[30May2023 19:35:29.735] [modloading-worker-1/INFO] [net.permutated.novillagerdm.NoVillagerDeathMessages/]: Registering mod: novillagerdm
+[30May2023 19:35:29.747] [modloading-worker-4/ERROR] [packmenu/]: Running on a dedicated server, disabling mod.
+[30May2023 19:35:29.830] [modloading-worker-1/INFO] [PluginManager/]: Scanning classes for industrialforegoing
+[30May2023 19:35:29.832] [modloading-worker-1/INFO] [PluginManager/]: Found FeaturePluginInstance for class ImmersiveEngineeringPlugin for plugin immersiveengineering
+[30May2023 19:35:29.832] [modloading-worker-1/INFO] [PluginManager/]: Found FeaturePluginInstance for class FTBChunksPlugin for plugin ftbchunks
+[30May2023 19:35:29.832] [modloading-worker-1/INFO] [PluginManager/]: Found FeaturePluginInstance for class AstralSorceryPlugin for plugin astralsorcery
+[30May2023 19:35:29.833] [modloading-worker-1/INFO] [PluginManager/]: Found FeaturePluginInstance for class CuriosPlugin for plugin curios
+[30May2023 19:35:29.838] [modloading-worker-1/INFO] [PluginManager/]: Constructed class ImmersiveEngineeringPlugin for plugin immersiveengineering for mod industrialforegoing
+[30May2023 19:35:29.839] [modloading-worker-1/INFO] [PluginManager/]: Constructed class FTBChunksPlugin for plugin ftbchunks for mod industrialforegoing
+[30May2023 19:35:29.842] [modloading-worker-1/INFO] [PluginManager/]: Constructed class AstralSorceryPlugin for plugin astralsorcery for mod industrialforegoing
+[30May2023 19:35:29.842] [modloading-worker-1/INFO] [PluginManager/]: Constructed class CuriosPlugin for plugin curios for mod industrialforegoing
+[30May2023 19:35:29.844] [modloading-worker-1/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class ImmersiveEngineeringPlugin
+[30May2023 19:35:29.910] [modloading-worker-0/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'cooldown_tracker_set' ASM patch!
+[30May2023 19:35:29.961] [modloading-worker-1/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class FTBChunksPlugin
+[30May2023 19:35:29.995] [modloading-worker-1/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class AstralSorceryPlugin
+[30May2023 19:35:29.996] [modloading-worker-1/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class CuriosPlugin
+[30May2023 19:35:30.001] [modloading-worker-7/INFO] [HammerLib/]: Injecting setup into class org.zeith.hammerlib.net.Network
+[30May2023 19:35:30.057] [modloading-worker-0/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'reach_set_server_entity_interact' ASM patch...
+[30May2023 19:35:30.100] [modloading-worker-7/INFO] [HammerLib/]: Injecting setup into class org.zeith.hammerlib.core.test.machine.RecipeTestMachine
+[30May2023 19:35:30.119] [modloading-worker-0/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'reach_set_server_entity_interact' ASM patch!
+[30May2023 19:35:30.136] [modloading-worker-1/INFO] [PluginManager/]: Executing phase PRE_INIT for plugin class ImmersiveEngineeringPlugin
+[30May2023 19:35:30.136] [modloading-worker-1/INFO] [PluginManager/]: Executing phase PRE_INIT for plugin class FTBChunksPlugin
+[30May2023 19:35:30.137] [modloading-worker-1/INFO] [PluginManager/]: Executing phase PRE_INIT for plugin class AstralSorceryPlugin
+[30May2023 19:35:30.137] [modloading-worker-1/INFO] [PluginManager/]: Executing phase PRE_INIT for plugin class CuriosPlugin
+[30May2023 19:35:30.148] [modloading-worker-0/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'allow_entity_interaction' ASM patch...
+[30May2023 19:35:30.203] [modloading-worker-0/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'allow_entity_interaction' ASM patch!
+[30May2023 19:35:30.958] [modloading-worker-5/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
+[30May2023 19:35:30.965] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
+[30May2023 19:35:31.211] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
+[30May2023 19:35:31.211] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
+[30May2023 19:35:31.422] [modloading-worker-3/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 2 RS API injection points
+[30May2023 19:35:31.434] [modloading-worker-3/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Injected RS API in org.cyclops.integrateddynamicscompat.modcompat.refinedstorage.aspect.RefinedStorageAspects RS
+[30May2023 19:35:31.435] [modloading-worker-3/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Injected RS API in com.refinedmods.refinedstorageaddons.RSAddons RSAPI
+[30May2023 19:35:31.923] [modloading-worker-5/INFO] [ipsis.woot.setup.ModSetup/]: InfuserSetup: register
+[30May2023 19:35:31.993] [modloading-worker-5/INFO] [ipsis.woot.setup.ModSetup/]: SqueezerSetup: register
+[30May2023 19:35:32.005] [modloading-worker-5/INFO] [ipsis.woot.setup.ModSetup/]: OracleSetup: register
+[30May2023 19:35:32.142] [Phosphophyllite Registry Worker/INFO] [Phosphophyllite/Registry/]: Thread started
+[30May2023 19:35:32.227] [modloading-worker-5/INFO] [ipsis.woot.setup.ModSetup/]: FactorySetup: register
+[30May2023 19:35:32.308] [modloading-worker-5/INFO] [ipsis.woot.setup.ModSetup/]: LayoutSetup: register
+[30May2023 19:35:32.312] [modloading-worker-2/INFO] [wile.engineerstools.ModEngineersTools/]: Engineer's Tools GIT id #1afec45.
+[30May2023 19:35:32.330] [modloading-worker-5/INFO] [ipsis.woot.setup.ModSetup/]: AnvilSetup: register
+[30May2023 19:35:32.405] [modloading-worker-5/INFO] [ipsis.woot.setup.ModSetup/]: FluidSetup: register
+[30May2023 19:35:32.431] [modloading-worker-5/INFO] [ipsis.woot.setup.ModSetup/]: ToolsSetup: register
+[30May2023 19:35:32.620] [modloading-worker-5/INFO] [ipsis.woot.setup.ModSetup/]: DebugSetup: register
+[30May2023 19:35:32.637] [modloading-worker-5/INFO] [ipsis.woot.setup.ModSetup/]: GenericSetup: register
+[30May2023 19:35:32.703] [modloading-worker-5/INFO] [ipsis.woot.setup.ModSetup/]: FluidConvertor: register
+[30May2023 19:35:33.208] [modloading-worker-3/INFO] [de.melanx.extradisks.ExtraDisks/]: 14 blocks registered.
+[30May2023 19:35:33.209] [modloading-worker-3/INFO] [de.melanx.extradisks.ExtraDisks/]: 29 items registered.
+[30May2023 19:35:33.210] [modloading-worker-3/INFO] [de.melanx.extradisks.ExtraDisks/]: 13 tiles registered.
+[30May2023 19:35:33.211] [modloading-worker-3/INFO] [de.melanx.extradisks.ExtraDisks/]: 13 containers registered.
+[30May2023 19:35:34.139] [modloading-worker-3/INFO] [STDOUT/]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Disabled because not running on the client.
+[30May2023 19:35:34.844] [modloading-worker-7/INFO] [JarSignVerifier/]: Mod usefulrailroads is signed with a valid certificate.
+[30May2023 19:35:34.898] [modloading-worker-4/INFO] [creativeapiary/]: Loading config: /home/container/config/creativeapiary-common.toml
+[30May2023 19:35:34.900] [modloading-worker-4/INFO] [creativeapiary/]: Built config: /home/container/config/creativeapiary-common.toml
+[30May2023 19:35:34.903] [modloading-worker-4/INFO] [creativeapiary/]: Loaded config: /home/container/config/creativeapiary-common.toml
+[30May2023 19:35:35.232] [modloading-worker-7/ERROR] [me.ichun.mods.ding.common.Ding/]: You are loading Ding on a server. Ding is a client only mod!
+[30May2023 19:35:35.237] [modloading-worker-1/INFO] [PluginManager/]: Executing phase INIT for plugin class ImmersiveEngineeringPlugin
+[30May2023 19:35:35.237] [modloading-worker-1/INFO] [PluginManager/]: Executing phase INIT for plugin class FTBChunksPlugin
+[30May2023 19:35:35.238] [modloading-worker-1/INFO] [PluginManager/]: Executing phase INIT for plugin class AstralSorceryPlugin
+[30May2023 19:35:35.238] [modloading-worker-1/INFO] [PluginManager/]: Executing phase INIT for plugin class CuriosPlugin
+[30May2023 19:35:35.736] [modloading-worker-0/INFO] [creativecrafter/]: Loading config: /home/container/config/creativecrafter-client.toml
+[30May2023 19:35:35.738] [modloading-worker-0/INFO] [creativecrafter/]: Built config: /home/container/config/creativecrafter-client.toml
+[30May2023 19:35:35.740] [modloading-worker-0/INFO] [creativecrafter/]: Loaded config: /home/container/config/creativecrafter-client.toml
+[30May2023 19:35:36.615] [modloading-worker-1/INFO] [PluginManager/]: Executing phase POST_INIT for plugin class ImmersiveEngineeringPlugin
+[30May2023 19:35:36.618] [modloading-worker-1/INFO] [PluginManager/]: Executing phase POST_INIT for plugin class FTBChunksPlugin
+[30May2023 19:35:36.618] [modloading-worker-1/INFO] [PluginManager/]: Executing phase POST_INIT for plugin class AstralSorceryPlugin
+[30May2023 19:35:36.618] [modloading-worker-1/INFO] [PluginManager/]: Executing phase POST_INIT for plugin class CuriosPlugin
+[30May2023 19:35:37.125] [modloading-worker-2/INFO] [Advanced Peripherals/]: AdvancedPeripherals says hello!
+[30May2023 19:35:37.693] [modloading-worker-1/INFO] [de.melanx.aiotbotania.AIOTBotania/]: Items registered.
+[30May2023 19:35:37.693] [modloading-worker-1/INFO] [de.melanx.aiotbotania.AIOTBotania/]: Blocks registered.
+[30May2023 19:35:37.693] [modloading-worker-1/INFO] [de.melanx.aiotbotania.AIOTBotania/]: Global loot modifiers registered.
+[30May2023 19:35:37.808] [modloading-worker-7/INFO] [wile.rsgauges.ModRsGauges/]: Gauges and Switches GIT id #bbe2ce7.
+[30May2023 19:35:37.943] [modloading-worker-2/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:not'
+[30May2023 19:35:37.952] [modloading-worker-2/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:and'
+[30May2023 19:35:38.000] [modloading-worker-2/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:or'
+[30May2023 19:35:38.007] [modloading-worker-2/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:gear_type'
+[30May2023 19:35:38.027] [modloading-worker-2/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:material_count'
+[30May2023 19:35:38.036] [modloading-worker-2/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:material_ratio'
+[30May2023 19:35:38.043] [modloading-worker-2/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:primary_material'
+[30May2023 19:35:38.045] [modloading-worker-2/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:simple_trait'
+[30May2023 19:35:38.053] [modloading-worker-2/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:damage_type_trait'
+[30May2023 19:35:38.069] [modloading-worker-2/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:durability_trait'
+[30May2023 19:35:38.094] [modloading-worker-2/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:enchantment_trait'
+[30May2023 19:35:38.118] [modloading-worker-2/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:nbt_trait'
+[30May2023 19:35:38.131] [modloading-worker-2/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:potion_effect_trait'
+[30May2023 19:35:38.141] [modloading-worker-2/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:stat_modifier_trait'
+[30May2023 19:35:38.153] [modloading-worker-2/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:attribute_trait'
+[30May2023 19:35:38.192] [modloading-worker-2/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:block_placer'
+[30May2023 19:35:38.223] [modloading-worker-2/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:block_filler'
+[30May2023 19:35:38.239] [modloading-worker-2/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:synergy'
+[30May2023 19:35:38.257] [modloading-worker-2/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:target_effect'
+[30May2023 19:35:38.292] [modloading-worker-2/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:bonus_drops'
+[30May2023 19:35:38.324] [modloading-worker-2/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:cancel_effects'
+[30May2023 19:35:38.343] [modloading-worker-2/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:self_repair'
+[30May2023 19:35:38.360] [modloading-worker-2/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:stellar'
+[30May2023 19:35:38.361] [modloading-worker-2/INFO] [Silent Gear/TraitManager]: Registered serializer 'managear:mana'
+[30May2023 19:35:38.392] [modloading-worker-2/INFO] [Silent Gear/TraitManager]: Registered serializer 'managear:manaburst'
+[30May2023 19:40:06.775] [modloading-worker-5/INFO] [pneumaticcraft/]: Thirdparty integration activated for [theoneprobe,cofh_core,immersiveengineering,computercraft,jei,botania,mekanism,curios,patchouli,create,appliedenergistics2]
+[30May2023 19:40:08.996] [modloading-worker-2/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'add_enchantment_condition' ASM patch...
+[30May2023 19:40:10.601] [modloading-worker-1/INFO] [JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
+[30May2023 19:40:11.074] [modloading-worker-2/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'add_enchantment_condition' ASM patch!
+[30May2023 19:40:11.464] [modloading-worker-5/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.39, for MC 1.16.5 with MCP 20210115.111550
+[30May2023 19:40:11.464] [modloading-worker-5/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.39 Initialized
+[30May2023 19:40:13.782] [modloading-worker-5/INFO] [JarSignVerifier/]: Mod usefulbackpacks is signed with a valid certificate.
+[30May2023 19:40:13.983] [modloading-worker-6/INFO] [com.resourcefulbees.resourcefulbees.ResourcefulBees/]: Setting up config paths...
+[30May2023 19:40:14.244] [modloading-worker-0/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'post_process_vanilla' ASM patch...
+[30May2023 19:40:14.541] [modloading-worker-0/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'post_process_vanilla' ASM patch!
+[30May2023 19:40:16.241] [modloading-worker-1/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30May2023 19:40:16.561] [modloading-worker-6/INFO] [com.resourcefulbees.resourcefulbees.ResourcefulBees/]: Bee Registry Initialized...
+[30May2023 19:40:16.574] [modloading-worker-6/INFO] [com.resourcefulbees.resourcefulbees.ResourcefulBees/]: Trait Registry Initialized...
+[30May2023 19:40:16.575] [modloading-worker-6/INFO] [com.resourcefulbees.resourcefulbees.ResourcefulBees/]: Bee Registration Enabled...
+[30May2023 19:40:16.634] [modloading-worker-6/INFO] [com.resourcefulbees.resourcefulbees.ResourcefulBees/]: Building Biome Dictionary...
+[30May2023 19:40:17.017] [modloading-worker-6/INFO] [com.resourcefulbees.resourcefulbees.ResourcefulBees/]: Registering Custom Bees...
+[30May2023 19:40:17.350] [modloading-worker-2/WARN] [net.minecraftforge.server.permission.PermissionAPI/]: Replacing net.minecraftforge.server.permission.DefaultPermissionHandler with dev.ftb.mods.ftbranks.forge.PermissionAPIWrapper
+[30May2023 19:40:17.610] [modloading-worker-6/INFO] [com.resourcefulbees.resourcefulbees.ResourcefulBees/]: Registering Custom Honeys..
+[30May2023 19:40:18.909] [modloading-worker-7/INFO] [ObservableNet/]: Registering class observable.net.BetterChannel$PartialPacketBegin
+[30May2023 19:40:19.492] [modloading-worker-4/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Adding 'add_player_field' ASM patch...
+[30May2023 19:40:19.530] [modloading-worker-4/INFO] [net.minecraftforge.coremod.CoreMod.astralsorcery/COREMODLOG]: Added 'add_player_field' ASM patch!
+[30May2023 19:40:21.329] [modloading-worker-4/INFO] [com.simibubi.create.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[30May2023 19:40:24.066] [modloading-worker-0/ERROR] [toastcontrol/]: Running on a dedicated server, disabling mod.
+[30May2023 19:40:25.022] [modloading-worker-0/INFO] [KubeJS/]: Looking for KubeJS plugins...
+[30May2023 19:40:25.075] [modloading-worker-0/INFO] [KubeJS/]: Found kubejs plugin
+[30May2023 19:40:26.204] [modloading-worker-0/INFO] [KubeJS/]: Found kubejs_thermal plugin
+[30May2023 19:40:26.352] [modloading-worker-0/INFO] [KubeJS/]: Found kubejs_create plugin
+[30May2023 19:40:26.407] [modloading-worker-0/INFO] [KubeJS/]: Found kubejs_immersive_engineering plugin
+[30May2023 19:40:26.454] [modloading-worker-0/INFO] [KubeJS/]: Found kubejs_mekanism plugin
+[30May2023 19:40:26.541] [modloading-worker-0/INFO] [KubeJS/]: Found kubejs_blood_magic plugin
+[30May2023 19:40:26.923] [modloading-worker-2/INFO] [brandonscore/]: Hey! Where's DE?
+[30May2023 19:40:26.926] [modloading-worker-2/INFO] [brandonscore/]: Oh well.. At least we dont have to worry about getting blown up now...
+[30May2023 19:40:27.089] [modloading-worker-0/INFO] [KubeJS/]: Found ftbchunks plugin
+[30May2023 19:40:27.288] [modloading-worker-0/INFO] [KubeJS/]: Found jaopca plugin
+[30May2023 19:40:27.349] [modloading-worker-0/INFO] [KubeJS/]: Done in 2 s
+[30May2023 19:40:28.166] [modloading-worker-0/INFO] [KubeJS/]: Loaded common.properties
+[30May2023 19:40:31.195] [modloading-worker-2/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalagriculture.lib.ModCorePlugin
+[30May2023 19:40:31.274] [modloading-worker-2/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalcustomization.lib.ModCorePlugin
+[30May2023 19:40:31.581] [modloading-worker-2/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalagradditions.lib.ModCorePlugin
+[30May2023 19:40:32.503] [modloading-worker-1/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:217]: Loading schematic: bloodmagic:t_corridor
+[30May2023 19:40:32.541] [modloading-worker-1/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:219]: Resulting dungeon: wayoftime.bloodmagic.structures.DungeonRoom@5ebe01fd
+[30May2023 19:40:32.548] [modloading-worker-1/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:217]: Loading schematic: bloodmagic:four_way_corridor_loot
+[30May2023 19:40:32.581] [modloading-worker-1/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:219]: Resulting dungeon: wayoftime.bloodmagic.structures.DungeonRoom@7304c905
+[30May2023 19:40:32.589] [modloading-worker-1/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:217]: Loading schematic: bloodmagic:four_way_corridor
+[30May2023 19:40:32.592] [modloading-worker-1/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:219]: Resulting dungeon: wayoftime.bloodmagic.structures.DungeonRoom@1aae55c1
+[30May2023 19:40:32.599] [modloading-worker-1/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:217]: Loading schematic: bloodmagic:ore_hold_1
+[30May2023 19:40:32.601] [modloading-worker-1/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:219]: Resulting dungeon: wayoftime.bloodmagic.structures.DungeonRoom@442670ae
+[30May2023 19:40:32.605] [modloading-worker-1/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:217]: Loading schematic: bloodmagic:straight_corridor
+[30May2023 19:40:32.606] [modloading-worker-1/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:219]: Resulting dungeon: wayoftime.bloodmagic.structures.DungeonRoom@2255c05b
+[30May2023 19:40:32.610] [modloading-worker-1/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:217]: Loading schematic: bloodmagic:spiral_staircase
+[30May2023 19:40:32.612] [modloading-worker-1/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:219]: Resulting dungeon: wayoftime.bloodmagic.structures.DungeonRoom@45996698
+[30May2023 19:40:32.620] [modloading-worker-1/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:217]: Loading schematic: bloodmagic:t3_entrance
+[30May2023 19:40:32.646] [modloading-worker-1/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:219]: Resulting dungeon: wayoftime.bloodmagic.structures.DungeonRoom@6915931b
+[30May2023 19:40:32.657] [modloading-worker-1/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:217]: Loading schematic: bloodmagic:mini_dungeon/library
+[30May2023 19:40:32.676] [modloading-worker-1/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:219]: Resulting dungeon: wayoftime.bloodmagic.structures.DungeonRoom@71af5869
+[30May2023 19:40:32.684] [modloading-worker-1/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:217]: Loading schematic: bloodmagic:mini_dungeon/armoury
+[30May2023 19:40:32.686] [modloading-worker-1/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:219]: Resulting dungeon: wayoftime.bloodmagic.structures.DungeonRoom@64e9727d
+[30May2023 19:40:32.693] [modloading-worker-1/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:217]: Loading schematic: bloodmagic:mini_dungeon/farm
+[30May2023 19:40:32.700] [modloading-worker-1/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:219]: Resulting dungeon: wayoftime.bloodmagic.structures.DungeonRoom@779f5fcb
+[30May2023 19:40:32.712] [modloading-worker-1/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:217]: Loading schematic: bloodmagic:mini_dungeon/portal_nether
+[30May2023 19:40:32.717] [modloading-worker-1/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:219]: Resulting dungeon: wayoftime.bloodmagic.structures.DungeonRoom@2885ff50
+[30May2023 19:40:32.725] [modloading-worker-1/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:217]: Loading schematic: bloodmagic:mini_dungeon/crypt
+[30May2023 19:40:32.732] [modloading-worker-1/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:219]: Resulting dungeon: wayoftime.bloodmagic.structures.DungeonRoom@1003c964
+[30May2023 19:40:32.735] [modloading-worker-1/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:223]: # schematics: 12
+[30May2023 19:40:33.087] [modloading-worker-1/INFO] [PluginManager/]: Scanning classes for titanium
+[30May2023 19:40:33.433] [modloading-worker-1/INFO] [PluginManager/]: Constructed class IndustrialForegoingResourcePlugin for plugin resources for mod titanium
+[30May2023 19:40:33.433] [modloading-worker-1/INFO] [PluginManager/]: Constructed class DefaultResourceRegistryPlugin for plugin resources for mod titanium
+[30May2023 19:40:33.433] [modloading-worker-1/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class IndustrialForegoingResourcePlugin
+[30May2023 19:40:33.960] [modloading-worker-1/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class DefaultResourceRegistryPlugin
+[30May2023 19:40:35.219] [modloading-worker-2/INFO] [com.ma.ManaAndArtifice/]: M&A -> Config Loaded
+[30May2023 19:40:36.508] [modloading-worker-1/INFO] [ctiers/]: Loading config: /home/container/config/ctiers-common.toml
+[30May2023 19:40:36.521] [modloading-worker-1/INFO] [ctiers/]: Built config: /home/container/config/ctiers-common.toml
+[30May2023 19:40:36.527] [modloading-worker-1/INFO] [ctiers/]: Loaded config: /home/container/config/ctiers-common.toml
+[30May2023 19:40:38.813] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:custom_stuff.js in 3.461 s
+[30May2023 19:40:38.820] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded 1/1 KubeJS startup scripts in 8.977 s
+[30May2023 19:40:38.909] [modloading-worker-1/INFO] [thelm.jaopca.data.DataCollector/]: Pack supplier thelm.jaopca.compat.openloader.OpenLoaderPackSupplier has missing mod dependencies, skipping
+[30May2023 19:40:41.288] [modloading-worker-0/INFO] [creativewirelesstransmitter/]: Loading config: /home/container/config/creative_wireless_transmitter-client.toml
+[30May2023 19:40:41.290] [modloading-worker-0/INFO] [creativewirelesstransmitter/]: Built config: /home/container/config/creative_wireless_transmitter-client.toml
+[30May2023 19:40:41.292] [modloading-worker-0/INFO] [creativewirelesstransmitter/]: Loaded config: /home/container/config/creative_wireless_transmitter-client.toml
+[30May2023 19:40:41.468] [modloading-worker-1/INFO] [thelm.jaopca.data.DataCollector/]: Found 3324 unique defined tags
+[30May2023 19:40:42.435] [modloading-worker-5/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching vazkii/quark/content/tools/module/AncientTomesModule
+[30May2023 19:40:42.532] [modloading-worker-5/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching vazkii/quark/content/tools/item/AncientTomeItem
+[30May2023 19:40:42.940] [modloading-worker-4/INFO] [wile.engineersdecor.ModEngineersDecor/]: Engineer's Decor GIT id #fb6b543.
+[30May2023 19:40:43.135] [modloading-worker-0/INFO] [team.chisel.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[30May2023 19:40:43.531] [modloading-worker-2/INFO] [com.ma.ManaAndArtifice/]: M&A -> Mod Event Bus Handlers Registered
+[30May2023 19:40:43.583] [modloading-worker-1/INFO] [thelm.jaopca.data.DataCollector/]: Found 31550 unique defined recipes
+[30May2023 19:40:44.620] [modloading-worker-1/INFO] [thelm.jaopca.data.DataCollector/]: Found 11682 unique defined loot tables
+[30May2023 19:40:46.477] [modloading-worker-1/INFO] [thelm.jaopca.data.DataCollector/]: Found 7483 unique defined advancements
+[30May2023 19:40:47.648] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.wtbwmachines.WTBWMachinesModule has missing mod dependencies, skipping
+[30May2023 19:40:47.648] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.wtbwmachines.WTBWMachinesDustModule has missing mod dependencies, skipping
+[30May2023 19:40:47.648] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.wtbwmachines.WTBWMachinesCompatModule has missing mod dependencies, skipping
+[30May2023 19:40:47.648] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.voluminousenergy.VoluminousEnergyModule has missing mod dependencies, skipping
+[30May2023 19:40:47.648] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.voluminousenergy.VoluminousEnergyDustModule has missing mod dependencies, skipping
+[30May2023 19:40:47.648] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.voluminousenergy.VoluminousEnergyCrystalModule has missing mod dependencies, skipping
+[30May2023 19:40:47.649] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.voluminousenergy.VoluminousEnergyCompatModule has missing mod dependencies, skipping
+[30May2023 19:40:47.688] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.silentsmechanisms.SilentsMechanismsNonIngotModule has missing mod dependencies, skipping
+[30May2023 19:40:47.689] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.silentsmechanisms.SilentsMechanismsModule has missing mod dependencies, skipping
+[30May2023 19:40:47.690] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.silentsmechanisms.SilentsMechanismsCompatModule has missing mod dependencies, skipping
+[30May2023 19:40:47.690] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.occultism.OccultismModule has missing mod dependencies, skipping
+[30May2023 19:40:47.690] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.occultism.OccultismCompatModule has missing mod dependencies, skipping
+[30May2023 19:40:47.759] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.indreb.IndRebNonIngotModule has missing mod dependencies, skipping
+[30May2023 19:40:47.759] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.indreb.IndRebModule has missing mod dependencies, skipping
+[30May2023 19:40:47.776] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.futurepack.FuturepackNonIngotModule has missing mod dependencies, skipping
+[30May2023 19:40:47.777] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.futurepack.FuturepackModule has missing mod dependencies, skipping
+[30May2023 19:40:47.777] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.ftbic.FTBICNonIngotModule has missing mod dependencies, skipping
+[30May2023 19:40:47.777] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.ftbic.FTBICModule has missing mod dependencies, skipping
+[30May2023 19:40:47.777] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.ftbic.FTBICCompatModule has missing mod dependencies, skipping
+[30May2023 19:40:47.778] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.flux.FluxNonIngotModule has missing mod dependencies, skipping
+[30May2023 19:40:47.778] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.flux.FluxModule has missing mod dependencies, skipping
+[30May2023 19:40:47.778] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.flux.FluxCompatModule has missing mod dependencies, skipping
+[30May2023 19:40:47.787] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.electrodynamics.ElectrodynamicsNonIngotModule has missing mod dependencies, skipping
+[30May2023 19:40:47.787] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.electrodynamics.ElectrodynamicsModule has missing mod dependencies, skipping
+[30May2023 19:40:47.788] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.electrodynamics.ElectrodynamicsCompatModule has missing mod dependencies, skipping
+[30May2023 19:40:47.788] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.crossroads.CrossroadsNonIngotModule has missing mod dependencies, skipping
+[30May2023 19:40:47.788] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.crossroads.CrossroadsModule has missing mod dependencies, skipping
+[30May2023 19:40:47.788] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.crossroads.CrossroadsCompatModule has missing mod dependencies, skipping
+[30May2023 19:40:47.843] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.assemblylinemachines.AssemblyLineMachinesModule has missing mod dependencies, skipping
+[30May2023 19:40:47.843] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.assemblylinemachines.AssemblyLineMachinesCompatModule has missing mod dependencies, skipping
+[30May2023 19:40:47.857] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.advancedrocketry.AdvancedRocketryModule has missing mod dependencies, skipping
+[30May2023 19:40:47.857] [modloading-worker-1/INFO] [thelm.jaopca.modules.ModuleHandler/]: Module thelm.jaopca.compat.advancedrocketry.AdvancedRocketryCompatModule has missing mod dependencies, skipping
+[30May2023 19:40:48.578] [modloading-worker-1/INFO] [thelm.jaopca.materials.MaterialHandler/]: Added 113 materials
+[30May2023 19:40:49.875] [modloading-worker-4/INFO] [mod.chiselsandbits.plugin.PluginManger/]: Found and loaded ChiselsAndBits plugin: create
+[30May2023 19:40:49.911] [modloading-worker-4/INFO] [mod.chiselsandbits.integration.chiselsandbits.create.CreatePlugin/]: Create Plugin for ChiselsAndBits activated.
+[30May2023 19:40:50.533] [modloading-worker-7/INFO] [ObservableNet/]: Registered class observable.net.BetterChannel$PartialPacketBegin
+[30May2023 19:40:50.542] [modloading-worker-7/INFO] [ObservableNet/]: Registering class observable.net.BetterChannel$PartialPacketData
+[30May2023 19:40:50.555] [modloading-worker-7/INFO] [ObservableNet/]: Registered class observable.net.BetterChannel$PartialPacketData
+[30May2023 19:40:50.572] [modloading-worker-7/INFO] [ObservableNet/]: Registering class observable.net.C2SPacket$InitTPSProfile
+[30May2023 19:40:50.591] [modloading-worker-7/INFO] [ObservableNet/]: Registered class observable.net.C2SPacket$InitTPSProfile
+[30May2023 19:40:50.600] [modloading-worker-7/INFO] [ObservableNet/]: Registering class observable.net.C2SPacket$RequestTeleport
+[30May2023 19:40:50.620] [modloading-worker-7/INFO] [ObservableNet/]: Registered class observable.net.C2SPacket$RequestTeleport
+[30May2023 19:40:50.627] [modloading-worker-7/INFO] [ObservableNet/]: Registering class observable.net.C2SPacket$RequestAvailability
+[30May2023 19:40:50.662] [modloading-worker-7/INFO] [ObservableNet/]: Registered class observable.net.C2SPacket$RequestAvailability
+[30May2023 19:40:50.668] [modloading-worker-7/INFO] [ObservableNet/]: Registering class observable.net.S2CPacket$ProfilingStarted
+[30May2023 19:40:50.694] [modloading-worker-7/INFO] [ObservableNet/]: Registered class observable.net.S2CPacket$ProfilingStarted
+[30May2023 19:40:50.702] [modloading-worker-7/INFO] [ObservableNet/]: Registering class observable.net.S2CPacket$ProfilingCompleted
+[30May2023 19:40:50.715] [modloading-worker-7/INFO] [ObservableNet/]: Registered class observable.net.S2CPacket$ProfilingCompleted
+[30May2023 19:40:50.739] [modloading-worker-7/INFO] [ObservableNet/]: Registering class observable.net.S2CPacket$ProfilerInactive
+[30May2023 19:40:50.777] [modloading-worker-7/INFO] [ObservableNet/]: Registered class observable.net.S2CPacket$ProfilerInactive
+[30May2023 19:40:50.783] [modloading-worker-7/INFO] [ObservableNet/]: Registering class observable.net.S2CPacket$ProfilingResult
+[30May2023 19:40:50.815] [modloading-worker-7/INFO] [ObservableNet/]: Registered class observable.net.S2CPacket$ProfilingResult
+[30May2023 19:40:50.851] [modloading-worker-7/INFO] [ObservableNet/]: Registering class observable.net.S2CPacket$Availability
+[30May2023 19:40:50.947] [modloading-worker-7/INFO] [ObservableNet/]: Registered class observable.net.S2CPacket$Availability
+[30May2023 19:40:55.557] [main/INFO] [com.ma.ManaAndArtifice/]: Finished registering registries!
+[30May2023 19:41:01.779] [main/INFO] [ipsis.woot.setup.ModSetup/]: registerBlocks
+[30May2023 19:41:02.358] [main/INFO] [wile.engineerstools.ModEngineersTools/]: Registered 3 blocks.
+[30May2023 19:41:10.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: The object Block{immersivepetroleum:distillationtower} has been registered twice for the same name immersivepetroleum:distillationtower.
+[30May2023 19:41:10.585] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: The object Block{immersivepetroleum:pumpjack} has been registered twice for the same name immersivepetroleum:pumpjack.
+[30May2023 19:41:10.585] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: The object Block{immersivepetroleum:cokerunit} has been registered twice for the same name immersivepetroleum:cokerunit.
+[30May2023 19:41:10.585] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: The object Block{immersivepetroleum:hydrotreater} has been registered twice for the same name immersivepetroleum:hydrotreater.
+[30May2023 19:41:12.872] [main/INFO] [wile.rsgauges.ModRsGauges/]: Registered 94 blocks.
+[30May2023 19:41:13.243] [main/INFO] [Dark Utilities/]: Registered 45 Block entries in 2.19ms.
+[30May2023 19:41:13.246] [main/INFO] [Botany Pots/]: Registered 34 Block entries in 2.25ms.
