@@ -1,0 +1,19 @@
+[17:46:31 ERROR]: [ModernPluginLoadingStrategy] Ambiguous plugin name 'FastAsyncWorldEdit' for files 'plugins/FastAsyncWorldEdit-Bukkit-2.8.3-SNAPSHOT-615.jar' and 'plugins/FastAsyncWorldEdit-Bukkit-2.8.4-SNAPSHOT-631.jar' in 'plugins'
+[17:46:31 WARN]: [ModernPluginLoadingStrategy] `WorldEdit' is provided by both `FastAsyncWorldEdit' and `FastAsyncWorldEdit'
+[17:46:31 ERROR]: [ModernPluginLoadingStrategy] Ambiguous plugin name 'ResourceWorld' for files 'plugins/ResourceWorld-2.0.5.jar' and 'plugins/ResourceWorld-2.0.7.jar' in 'plugins'
+[17:46:31 ERROR]: [SimpleProviderStorage] Circular plugin loading detected!
+[17:46:31 ERROR]: [SimpleProviderStorage] Circular load order:
+[17:46:31 ERROR]: [SimpleProviderStorage]   FastAsyncWorldEdit -> Vault -> ServerSystem -> PlotSquared -> FastAsyncWorldEdit
+[17:46:31 ERROR]: [SimpleProviderStorage] Please report this to the plugin authors of the first plugin of each loop or join the PaperMC Discord server for further help.
+[17:46:31 ERROR]: [SimpleProviderStorage] If you would like to still load these plugins, acknowledging that there may be unexpected plugin loading issues, run the server with -Dpaper.useLegacyPluginLoading=true
+[17:46:31 ERROR]: Encountered an unexpected exception
+java.lang.IllegalStateException: Circular plugin loading from plugins FastAsyncWorldEdit
+        at io.papermc.paper.plugin.storage.SimpleProviderStorage.handleCycle(SimpleProviderStorage.java:78) ~[paper-1.20.2.jar:git-Paper-318]
+        at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:42) ~[paper-1.20.2.jar:git-Paper-318]
+        at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:36) ~[paper-1.20.2.jar:git-Paper-318]
+        at org.bukkit.craftbukkit.v1_20_R2.CraftServer.loadPlugins(CraftServer.java:514) ~[paper-1.20.2.jar:git-Paper-318]
+        at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:273) ~[paper-1.20.2.jar:git-Paper-318]
+        at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1086) ~[paper-1.20.2.jar:git-Paper-318]
+        at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:315) ~[paper-1.20.2.jar:git-Paper-318]
+        at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:46:31 ERROR]: This crash report has been saved to: /home/container/./crash-reports/crash-2023-12-20_17.46.31-server.txt
