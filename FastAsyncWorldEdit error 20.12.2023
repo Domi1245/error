@@ -17,3 +17,61 @@ java.lang.IllegalStateException: Circular plugin loading from plugins FastAsyncW
         at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:315) ~[paper-1.20.2.jar:git-Paper-318]
         at java.lang.Thread.run(Thread.java:833) ~[?:?]
 [17:46:31 ERROR]: This crash report has been saved to: /home/container/./crash-reports/crash-2023-12-20_17.46.31-server.txt
+
+Englisch
+
+Hello error message about the plugin
+
+This software paper
+
+Server version 1.20.2
+Paper version 318
+
+But this problem also occurs with version 1.20.4
+
+Problem number
+#631 12/18/2023 3:33 p.m
+
+Error code link
+
+https://github.com/Domi1245/error/tree/main
+
+https://github.com/Domi1245/error/blob/main/FastAsyncWorldEdit%20error%2020.12.2023
+
+
+Solved the problem in both versions
+
+problem solved
+#630 12/18/2023 3:04 p.m
+
+Ende
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Deutsch 
+
+Hallo Fehlermeldung zu dem Plugin
+
+Dieses Softwarepapier
+
+Serverversion 1.20.2
+Papierversion 318
+
+Macht aber dieses Problem auch bei der eins von 1.20.4
+
+Problem Nummer
+#631 18.12.2023 15:33
+
+Fehlercode-Link
+
+https://github.com/Domi1245/error/tree/main
+
+https://github.com/Domi1245/error/blob/main/FastAsyncWorldEdit%20error%2020.12.2023
+
+
+Hat bei beiden Versionen das Problem gelöst
+
+Problem gelöst
+#630 18.12.2023 15:04
