@@ -1,0 +1,24 @@
+[17:28:12 INFO]: Found 18 dependencies adding them to mods collection
+[17:28:12 INFO] [Configured Defaults]: Applying default files...
+java.lang.module.ResolutionException: Module okio reads more than one module named javax.inject
+        at java.base/java.lang.module.Resolver.resolveFail(Resolver.java:901)
+        at java.base/java.lang.module.Resolver.checkExportSuppliers(Resolver.java:722)
+        at java.base/java.lang.module.Resolver.finish(Resolver.java:380)
+        at java.base/java.lang.module.Configuration.<init>(Configuration.java:140)
+        at java.base/java.lang.module.Configuration.resolveAndBind(Configuration.java:494)
+        at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ModuleLayerHandler.buildLayer(ModuleLayerHandler.java:75)
+        at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformationServicesHandler.buildTransformingClassLoader(TransformationServicesHandler.java:60)
+        at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.run(Launcher.java:106)
+        at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.main(Launcher.java:78)
+        at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+        at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+        at MC-BOOTSTRAP/arclight.boot/io.izzel.arclight.boot.application.ApplicationBootstrap.accept(ApplicationBootstrap.java:46)
+        at MC-BOOTSTRAP/arclight.boot/io.izzel.arclight.boot.application.ApplicationBootstrap.accept(ApplicationBootstrap.java:13)
+        at cpw.mods.bootstraplauncher@1.1.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141)
+        at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+        at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+        at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+        at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+        at io.izzel.arclight.boot.application.Main_Forge.main(Main_Forge.java:23)
+        at io.izzel.arclight.server.Launcher.main(Launcher.java:18)
+Fail to launch Arclight.
