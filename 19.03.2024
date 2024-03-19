@@ -1,0 +1,20 @@
+Java Version:
+openjdk version "17.0.8" 2023-07-18
+OpenJDK Runtime Environment Temurin-17.0.8+7 (build 17.0.8+7)
+OpenJDK 64-Bit Server VM Temurin-17.0.8+7 (build 17.0.8+7, mixed mode, sharing)
+[18:12:59] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[18:12:59] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.8 by Eclipse Adoptium; OS Linux arch amd64 version 5.15.0-100-generic
+[18:13:00] [main/INFO] [ne.mi.fm.lo.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[18:13:00] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/home/container/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[18:13:00] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /home/container/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.0/fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
+[18:13:00] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /home/container/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.0/javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[18:13:00] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /home/container/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[18:13:00] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file /home/container/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.0/mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[18:13:00] [main/INFO] [ne.mi.fm.lo.mo.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[18:13:04] [main/INFO] [cp.mo.mo.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[18:13:04] [main/INFO] [minecraft/Main]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
+
+ Moonlight  ---------- Detected server process in a crashed state! ----------
+ Moonlight  Exit code: 0
+ Moonlight  Out of memory: false
+ Moonlight  Aborting automatic restart, last crash occurred less than 60 seconds ago.
