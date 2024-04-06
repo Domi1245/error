@@ -1,0 +1,52 @@
+mc 1.20.1
+Forge Version 47.1.1
+Arclight Trials/1.0.1
+
+Doesn't want to install error
+
+C:\Users\opdomi_\Desktop\ServerTest\serverrpmods>java -Xmx4G -Xms4G -jar server.jar
+Downloading missing libraries ...
+Downloading mc version manifest...
+Downloaded forge-1.20.1-47.1.1-installer.jar
+Failed to download manifest from https://download.mcbbs.net
+  javax.net.ssl.SSLHandshakeException: No subject alternative DNS name matching download.mcbbs.net found.
+Minecraft version: 1.20.1, server: 84194a2f286ef7c14ed7ce0090dba59902951553, mappings: 0b4dba049482496c507b2387a73a913230ebbd76
+Downloaded libraries\net\minecraft\server\1.20.1\server-1.20.1.jar
+Processing forge installer...
+Forge installation is starting, please wait...
+JVM info: Eclipse Adoptium - 17.0.9 - 17.0.9+9
+java.net.preferIPv4Stack=true
+Current Time: 06/04/2024 19:00:12
+Host: files.minecraftforge.net [104.21.58.163, 172.67.161.211, 2606:4700:3032:0:0:0:6815:3aa3, 2606:4700:3036:0:0:0:ac43:a1d3]
+Host: maven.minecraftforge.net [172.67.161.211, 104.21.58.163, 2606:4700:3036:0:0:0:ac43:a1d3, 2606:4700:3032:0:0:0:6815:3aa3]
+Host: libraries.minecraft.net [13.107.246.45, 13.107.213.45, 2620:1ec:bdf:0:0:0:0:45, 2620:1ec:46:0:0:0:0:45]
+Host: launchermeta.mojang.com [13.107.213.45, 13.107.246.45, 2620:1ec:bdf:0:0:0:0:45, 2620:1ec:46:0:0:0:0:45]
+Host: piston-meta.mojang.com [13.107.213.45, 13.107.246.45, 2620:1ec:bdf:0:0:0:0:45, 2620:1ec:46:0:0:0:0:45]
+java.net.UnknownHostException: Der angegebene Host ist unbekannt (authserver.mojang.com)
+        at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+        at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:934)
+        at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1543)
+        at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:852)
+        at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1533)
+        at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1385)
+        at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+        at net.minecraftforge.installer.DownloadUtils.getIps(DownloadUtils.java:290)
+        at net.minecraftforge.installer.SimpleInstaller.main(SimpleInstaller.java:120)
+Exception in thread "main"
+java.lang.NullPointerException: Cannot invoke "java.util.List.stream()" because the return value of "net.minecraftforge.installer.DownloadUtils.getIps(String)" is null
+        at net.minecraftforge.installer.SimpleInstaller.main(SimpleInstaller.java:120)
+java.nio.file.NoSuchFileException: libraries\net\minecraftforge\forge\1.20.1-47.1.1\win_args.txt
+        at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+        at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+        at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+        at java.base/sun.nio.fs.WindowsFileSystemProvider.newFileChannel(WindowsFileSystemProvider.java:121)
+        at java.base/java.nio.channels.FileChannel.open(FileChannel.java:298)
+        at java.base/java.nio.channels.FileChannel.open(FileChannel.java:357)
+        at java.base/java.nio.file.Files.lines(Files.java:4132)
+        at java.base/java.nio.file.Files.lines(Files.java:4227)
+        at io.izzel.arclight.forgeinstaller.ForgeInstaller.classpath(ForgeInstaller.java:323)
+        at io.izzel.arclight.forgeinstaller.ForgeInstaller.applicationInstall(ForgeInstaller.java:108)
+        at io.izzel.arclight.boot.application.Main_Forge.forgeInstall(Main_Forge.java:41)
+        at io.izzel.arclight.boot.application.Main_Forge.main(Main_Forge.java:19)
+        at io.izzel.arclight.server.Launcher.main(Launcher.java:18)
+Fail to launch Arclight.
